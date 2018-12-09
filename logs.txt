@@ -1,0 +1,8 @@
+log version 1 (v.1.0)
+
+the program start with a .exe file. the program starts with a window asking for a password.
+the password code is 39467205. if you have entered the code you will be asked again if you 
+really want to run the program. if you press no the program will ends. if you press yes the
+program starts and your computer will restart. when you log in then you can see that the
+wallpaper has changed into a black background with a green snakez text and you hear sneaks
+sounds. You can also see that the signal lights on the keyboard are flashing
